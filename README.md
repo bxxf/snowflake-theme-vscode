@@ -51,4 +51,4 @@ I am happy to see any feedback from you. You can contact me through [GitHub issu
 
 ### License
 
-[MIT](https://github.com/breberafilip/snowflake-theme-vscode/blob/master/LICENSE) © [Filip Brebera](https://brebera.com)
+[MIT](https://github.com/breberafilip/snowflake-theme-vscode/blob/master/LICENSE.md) © [Filip Brebera](https://brebera.com)
