@@ -9,9 +9,9 @@
     "url": "https://github.com/breberafilip/snowflake-theme-vscode"
   },
   "galleryBanner": {
-		"color": "#1b2029",
-		"theme": "dark"
-	},
+    "color": "#1b2029",
+    "theme": "dark"
+  },
   "description": "Modern color theme in the colors of winter.",
   "scripts": {
     "vscode:prepublish": "node build",
@@ -19,7 +19,7 @@
     "package": "vsce package"
   },
   "icon": "assets/icon.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.45.0"
   },
