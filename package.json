@@ -19,7 +19,7 @@
     "package": "vsce package"
   },
   "icon": "assets/icon.png",
-  "version": "1.0.3-beta",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.45.0"
   },
