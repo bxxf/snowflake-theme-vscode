@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://snowflake.brebera.com">
-  <img alt="banner" src="https://raw.githubusercontent.com/breberafilip/snowflake-theme-vscode/master/assets/banner.png"/>
+  <img alt="banner" src="https://raw.githubusercontent.com/breberafilip/snowflake-theme-vscode/master/assets/banner.png?token=AKJ4MSCVBUDNU6X64TRPD4K6YKTIA"/>
   </a>
 </p> 
 
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<p align="center"><img alt="demo" src="https://raw.githubusercontent.com/breberafilip/assets/snowflake-theme-vscode/master/demo.png"</p>
+<p align="center"><img alt="demo" src="https://raw.githubusercontent.com/breberafilip/snowflake-theme-vscode/master/assets/demo.png?token=AKJ4MSAGLYVNEXONTZJG54S6YKTLC"</p>
 
 
 ### Feedback
