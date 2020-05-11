@@ -8,15 +8,15 @@
 <p align="center">
   <!-- marketplace version -->
   <a href="https://marketplace.visualstudio.com/items?itemName=breberafilip.snowflake-theme">
-    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/breberafilip.snowflake-theme.svg?maxAge=3600&style=for-the-badge&labelColor=1b2029&color=5dbcd4">
+    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/breberaf.snowflake.svg?maxAge=3600&style=for-the-badge&labelColor=1b2029&color=5dbcd4">
   </a>
   <!-- downloads -->
   <a href="https://marketplace.visualstudio.com/items?itemName=breberafilip.snowflake-theme">
-    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/breberafilip.snowflake-theme.svg?maxAge=3600&style=for-the-badge&labelColor=1b2029&color=5dbcd4">
+    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/breberaf.snowflake.svg?maxAge=3600&style=for-the-badge&labelColor=1b2029&color=5dbcd4">
   </a>
   <!-- rating -->
   <a href="https://marketplace.visualstudio.com/items?itemName=breberafilip.snowflake-theme">
-    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/breberafilip.snowflake-theme.svg?maxAge=86400&style=for-the-badge&labelColor=1b2029&color=5dbcd4">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/breberaf.snowflake.svg?maxAge=86400&style=for-the-badge&labelColor=1b2029&color=5dbcd4">
   </a>
 </p>
 
