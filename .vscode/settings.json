@@ -1,5 +1,7 @@
 {
     "git.ignoreLimitWarning": true,
     "workbench.colorCustomizations": {
+      "gitDecoration.ignoredResourceForeground": "#4f5c6bdd",
+
     }
 }
