@@ -1,4 +1,5 @@
 .vscode/**
 build/**
 .gitignore
-assets
+assets/demo.png
+assets/banner.png
