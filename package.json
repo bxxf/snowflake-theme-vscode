@@ -1,0 +1,53 @@
+{
+  "name": "snowflake",
+  "displayName": "Snowflake Theme",
+  "author": "Filip Brebera <breberaf@gmail.com>",
+  "license": "MIT",
+  "publisher": "breberafilip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/breberafilip/snowflake-theme-vscode"
+  },
+  "galleryBanner": {
+		"color": "#1b2029",
+		"theme": "dark"
+	},
+  "description": "Modern color theme in the colors of winter.",
+  "scripts": {
+    "vscode:prepublish": "node build",
+    "build": "node build",
+    "package": "vsce package"
+  },
+  "icon": "assets/icon.png",
+  "version": "1.0.0-beta",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "snowflake",
+    "winter",
+    "cold"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Snowflake",
+        "uiTheme": "vs-dark",
+        "path": "./themes/snowflake.json"
+      },
+      {
+        "label": "Snowflake Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/snowflake-contrast.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "mustache": "^4.0.1"
+  }
+}
