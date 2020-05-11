@@ -3,6 +3,8 @@
 - Light theme variant
 - Fixed missing styles
 
+## [1.0.6] - 2020-05-11
+- Fixed ignored files color accent
 ## [1.0.3-beta] - 2020-05-11
 - Badges in README fixed
 ## [1.0.2-beta] - 2020-05-11
