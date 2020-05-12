@@ -9,17 +9,15 @@
     "url": "https://github.com/breberafilip/snowflake-theme-vscode"
   },
   "galleryBanner": {
-    "color": "#1b2029",
-    "theme": "dark"
-  },
-  "description": "Modern color theme in the colors of winter.",
+		"color": "#1b2029",
+		"theme": "dark"
+	},
+  "description": "Modern color theme in colors of the winter.",
   "scripts": {
-    "vscode:prepublish": "node build",
-    "build": "node build",
-    "package": "vsce package"
+    "build": "node build/light && node build/dark"
   },
   "icon": "assets/icon.png",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "engines": {
     "vscode": "^1.45.0"
   },
@@ -36,14 +34,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Snowflake",
+        "label": "Snowflake Light",
+        "uiTheme": "vs",
+        "path": "./themes/light/snowflake.json"
+      },
+      {
+        "label": "Snowflake Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/snowflake.json"
+        "path": "./themes/dark/snowflake.json"
       },
       {
         "label": "Snowflake Contrast",
         "uiTheme": "vs-dark",
-        "path": "./themes/snowflake-contrast.json"
+        "path": "./themes/dark/snowflake-contrast.json"
       }
     ]
   },
