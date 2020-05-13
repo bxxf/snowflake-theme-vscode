@@ -20,7 +20,8 @@
   </a>
 </p>
 
-<p align="center"><img alt="demo" src="https://raw.githubusercontent.com/breberafilip/snowflake-theme-vscode/master/assets/demo.png?token=AKJ4MSARWTTPYCQNQQXN5PK6YKXOG"</p>
+<p align="center"><img alt="demo-dark" src="https://raw.githubusercontent.com/breberafilip/snowflake-theme-vscode/master/assets/dark.png"/>
+<img alt="demo-dark-contrast" src="https://raw.githubusercontent.com/breberafilip/snowflake-theme-vscode/master/assets/dark-contrast.png"/></p>
 
 
 ### Feedback

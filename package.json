@@ -12,12 +12,12 @@
 		"color": "#1b2029",
 		"theme": "dark"
 	},
-  "description": "Modern color theme in colors of the winter.",
+  "description": "Modern color theme in the colors of winter.",
   "scripts": {
     "build": "node build/light && node build/dark"
   },
   "icon": "assets/icon.png",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "engines": {
     "vscode": "^1.45.0"
   },

@@ -1,5 +1,7 @@
 # CHANGELOG
-
+## [1.0.8] - 2020-05-13
+- Fixed ignored resource colors
+- Added Contrast theme demo to README
 ## [1.0.7] - 2020-05-12
 - Added Light theme
 ## [1.0.6] - 2020-05-11
