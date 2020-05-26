@@ -1,4 +1,6 @@
 # CHANGELOG
+## [1.0.8] - 2020-05-26
+- Fixed menu background color issue
 ## [1.0.8] - 2020-05-13
 - Fixed ignored resource colors
 - Added Contrast theme demo to README
