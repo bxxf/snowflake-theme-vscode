@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://snowflake.brebera.com">
-  <img alt="banner" src="https://raw.githubusercontent.com/breberafilip/snowflake-theme-vscode/master/assets/banner.png?token=AKJ4MSCVBUDNU6X64TRPD4K6YKTIA"/>
-  </a>
-</p> 
-
 
 <p align="center">
   <!-- marketplace version -->
